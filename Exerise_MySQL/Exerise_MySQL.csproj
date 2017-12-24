@@ -20,5 +20,6 @@
 
   <ItemGroup>
     <Folder Include="Views\Account\" />
+    <Folder Include="DataContext\" />
   </ItemGroup>
 </Project>
