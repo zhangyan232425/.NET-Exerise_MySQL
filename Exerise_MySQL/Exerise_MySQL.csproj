@@ -22,4 +22,9 @@
     <Folder Include="Views\Account\" />
     <Folder Include="DataContext\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Migrations\20171224210839_AddAccountTable.Designer.cs" />
+    <Compile Remove="Migrations\20171224210839_AddAccountTable.cs" />
+    <Compile Remove="Migrations\ExeriseDbContextModelSnapshot.cs" />
+  </ItemGroup>
 </Project>
