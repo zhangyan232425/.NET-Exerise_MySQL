@@ -11,7 +11,7 @@ using System;
 namespace Exerise_MySQL.Migrations
 {
     [DbContext(typeof(ExeriseDbContext))]
-    [Migration("20171225024807_AddAccountTable")]
+    [Migration("20171225163320_AddAccountTable")]
     partial class AddAccountTable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -1,0 +1,11 @@
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/bin/Debug/netcoreapp2.0/Exerise_MySQL.deps.json
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/bin/Debug/netcoreapp2.0/Exerise_MySQL.runtimeconfig.json
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/bin/Debug/netcoreapp2.0/Exerise_MySQL.runtimeconfig.dev.json
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/bin/Debug/netcoreapp2.0/Exerise_MySQL.dll
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/bin/Debug/netcoreapp2.0/Exerise_MySQL.pdb
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/obj/Debug/netcoreapp2.0/Exerise_MySQL.csprojResolveAssemblyReference.cache
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/obj/Debug/netcoreapp2.0/Exerise_MySQL.csproj.CoreCompileInputs.cache
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/obj/Debug/netcoreapp2.0/Exerise_MySQL.AssemblyInfoInputs.cache
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/obj/Debug/netcoreapp2.0/Exerise_MySQL.AssemblyInfo.cs
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/obj/Debug/netcoreapp2.0/Exerise_MySQL.dll
+/Users/zyan/Projects/Exerise_MySQL/Exerise_MySQL/obj/Debug/netcoreapp2.0/Exerise_MySQL.pdb
